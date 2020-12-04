@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fxruby (1.6.43-x64-mingw32)
+      mini_portile2 (~> 2.1)
+    mini_portile2 (2.5.0)
+    optimist (3.0.1)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  fxruby
+  optimist
+
+BUNDLED WITH
+   2.1.4
